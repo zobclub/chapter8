@@ -4,6 +4,10 @@ Chapter 8 Built-in Sensor program for micro:bit book
 
 ## Sample Program
 ---
+* clcd.py
+```
+キャラクタ液晶ディスプレイ表示 ライブラリファイル
+```
 * clcd1.py
 ```
 キャラクタ液晶ディスプレイ表示プログラム by MicroPython
@@ -12,17 +16,13 @@ Chapter 8 Built-in Sensor program for micro:bit book
 ```
 キャラクタ液晶ディスプレイ表示プログラム カスタムブロックソース by TypeScript
 ```
-*  microbit-clcd.hex
-```
-キャラクタ液晶ディスプレイ表示プログラム カスタムブロック使用 by MakeCode
-```
-* clcd.py
-```
-キャラクタ液晶ディスプレイ表示 ライブラリファイル
-```
 * mma1.py
 ```
 加速度センサデータ取得プログラム by MicroPython
+```
+*  microbit-clcd.hex
+```
+キャラクタ液晶ディスプレイ表示プログラム カスタムブロック使用 by MakeCode
 ```
 * microbit-mma1.hex
 ```
