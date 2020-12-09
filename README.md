@@ -50,7 +50,7 @@ Chapter 8 Built-in Sensor program for micro:bit book
 ```
 ## License
 MIT
-
+```
 ## Supported targets
 
 for PXT/microbit
