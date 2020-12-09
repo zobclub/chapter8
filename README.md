@@ -4,29 +4,9 @@ Chapter 8 Built-in Sensor program for micro:bit book
 
 ## Sample Program
 ---
-* clcd.py
-```
-キャラクタ液晶ディスプレイ表示 ライブラリファイル
-```
-* clcd1.py
-```
-キャラクタ液晶ディスプレイ表示プログラム by MicroPython
-```
-* clcd1.ts
-```
-キャラクタ液晶ディスプレイ表示プログラム カスタムブロックソース by TypeScript
-```
 * mma1.py
 ```
 加速度センサデータ取得プログラム by MicroPython
-```
-*  microbit-clcd.hex
-```
-キャラクタ液晶ディスプレイ表示プログラム カスタムブロック使用 by MakeCode
-```
-* microbit-mma1.hex
-```
-加速度センサデータ取得プログラム by MakeCode
 ```
 *  mma2.py
 ```
@@ -35,6 +15,10 @@ Chapter 8 Built-in Sensor program for micro:bit book
 * mma2.ts
 ```
 加速度センサ レジスタから直接データ取得プログラム by TypeScript
+```
+* microbit-mma1.hex
+```
+加速度センサデータ取得プログラム by MakeCode
 ```
 * mgatemp.py
 ```
@@ -47,6 +31,22 @@ Chapter 8 Built-in Sensor program for micro:bit book
 * microbit-mgatemp.hex
 ```
 磁気センサのレジスタから温度データを取得 カスタムブロック使用 by MakeCode
+```
+* clcd1.py
+```
+キャラクタ液晶ディスプレイ表示プログラム by MicroPython
+```
+* clcd1.ts
+```
+キャラクタ液晶ディスプレイ表示プログラム カスタムブロックソース by TypeScript
+```
+* clcd.py
+```
+キャラクタ液晶ディスプレイ表示 ライブラリファイル
+```
+*  microbit-clcd.hex
+```
+キャラクタ液晶ディスプレイ表示プログラム カスタムブロック使用 by MakeCode
 ```
 ## License
 MIT
